@@ -20,5 +20,7 @@ These position are been selected randomly for each ship and also
        
 Basically in coding I have used a function to Play the game , How to Play Instruction and Quit
 
+A list and tuple are used for the ship storing at the backend.
+
 For Graphical Interface Tkinter has been used to provide Buttons, Label, MessageBox.
 
